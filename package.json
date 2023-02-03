@@ -19,5 +19,9 @@
   "homepage": "https://github.com/julien-sibille/vuejs-cookies-management-center#readme",
   "bugs": {
     "url": "https://github.com/julien-sibille/vuejs-cookies-management-center/issues"
-  }
+  },
+  "devDependencies": {
+    "vue": "^3"
+  },
+  "main": "./dist/js/index.js"
 }
